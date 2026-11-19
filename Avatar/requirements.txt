@@ -1,0 +1,4 @@
+Flask>=3.0
+gTTS>=2.5
+openai-whisper
+pyttsx3>=2.99
